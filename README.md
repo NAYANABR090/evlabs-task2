@@ -1,2 +1,6 @@
-# evlabs-task2
-This project focuses on performing Exploratory Data Analysis (EDA) on the popular Titanic Dataset, which contains demographic and survival information of passengers aboard the RMS Titanic. The goal of the task is to understand the structure, patterns, relationships, and anomalies within the data using statistical methods and visualizations.
+- Females had a higher survival rate than males.
+- Passengers in 1st class survived more than those in 2nd and 3rd class.
+- Age distribution shows more young passengers; some outliers are present.
+- Fare is right-skewed (few high-value outliers).
+- Strong positive correlation between Fare and Passenger Class.
+- EDA revealed missing values in Age and Cabin columns.
